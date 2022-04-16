@@ -1,6 +1,6 @@
 ### Hi there, I'm Umut! 👋
 
-## I'm Machine Learning / Software Engineer!
+### I'm Machine Learning / Software Engineer who loves to learn new stuff about anything
 
 <!--
 **umutcakan/umutcakan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

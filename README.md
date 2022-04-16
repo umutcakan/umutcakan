@@ -21,12 +21,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Docker and Feather.js.
 
 
-🏡 [website][website] **|** 
-👔 [linkedin][linkedin]
-
-
 [![Umut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umutcakan&count_private=true&show_icons=true)](https://github.com/umutcakan)
 
+🏡 [website][website] **|** 
+👔 [linkedin][linkedin]
 
 [website]: https://umutcakan.github.io
 [acelerex]: https://acelerex.com/

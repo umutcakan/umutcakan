@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working at [Acelerex][acelerex].
 - 🌱 I’m currently learning Docker and Feather.js.
 
 
@@ -27,7 +26,6 @@ Here are some ideas to get you started:
 👔 [linkedin][linkedin]
 
 [website]: https://umutcakan.github.io
-[acelerex]: https://acelerex.com/
 [linkedin]: https://www.linkedin.com/in/umut-%C3%A7akan/
 
 ![](https://komarev.com/ghpvc/?username=umutcakan&color=blue&style=for-the-badge)
